@@ -22,5 +22,8 @@
         "age": 35,
         "height": 190,
         "gender": "male"
+    },
+    {
+        "name": "Test"
     }
 ]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 1200,
+    "amount": 15
+  },
+  {
+    "name": "iPhone 15",
+    "price": 1350,
+    "amount": 8
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "price": 950,
+    "amount": 22
+  },
+  {
+    "name": "Google Pixel 8",
+    "price": 750,
+    "amount": 12
+  },
+  {
+    "name": "OnePlus 12",
+    "price": 850,
+    "amount": 17
+  },
+  {
+    "name": "Xiaomi 14",
+    "price": 700,
+    "amount": 30
+  },
+  {
+    "name": "Sony Xperia 1 V",
+    "price": 1100,
+    "amount": 6
+  },
+  {
+    "name": "Motorola Edge 40",
+    "price": 450,
+    "amount": 25
+  },
+  {
+    "name": "Nothing Phone 2",
+    "price": 600,
+    "amount": 14
+  },
+  {
+    "name": "Samsung Galaxy A55",
+    "price": 400,
+    "amount": 35
+  },
+  {
+    "name": "iPhone 13",
+    "price": 650,
+    "amount": 19
+  }
+]

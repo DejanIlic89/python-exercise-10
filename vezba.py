@@ -1,1 +1,10 @@
-# Napraviti folder "data" unutar koga cemo imati "user.json" i "products.json"
+
+from methods import load_file, save_file
+
+
+products = load_file("data/products.json")
+print(products)
+
+data = load_file("data/user.json")
+data.append({"name": "Test"})
+save_file("data/user.json", data)
