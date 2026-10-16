@@ -1,6 +1,6 @@
 import json
 
-with open("data.json", "r") as file:
+with open("data/user.json", "r") as file:
     data = json.load(file)
     data.append({
         "name": "Petar Petrovic",
@@ -11,5 +11,5 @@ with open("data.json", "r") as file:
 
 print(data)
 
-with open("data.json", "w") as file:
+with open("data/user.json", "w") as file:
     json.dump(data, file, indent=4)
